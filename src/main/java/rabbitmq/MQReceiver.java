@@ -1,7 +1,7 @@
 package rabbitmq;
 
-import edu.iu.bhatt21.historyservice.model.PrimesRecord;
-import edu.iu.bhatt21.historyservice.repository.PrimesHistoryRepository;
+import edu.iu.juyee1698.historyservice.model.PrimesRecord;
+import edu.iu.juyee1698.historyservice.repository.PrimesHistoryRepository;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.stereotype.Component;

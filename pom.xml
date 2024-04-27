@@ -8,7 +8,7 @@
 		<version>3.2.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>edu.iu.bhatt21</groupId>
+	<groupId>edu.iu.juyee1698</groupId>
 	<artifactId>history-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>history-service</name>
